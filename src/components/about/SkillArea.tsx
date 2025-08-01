@@ -27,7 +27,7 @@ export default function SkillArea({ skill, idx }: any) {
                 <div className="skill-items-wrap">
                   <div className="row">
                     {skill.skills &&
-                      skill.skills.map((technology, idx) => (
+                      skill.skills.map((technology: any, idx: number) => (
                         <div
                           className="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6"
                           key={idx}

@@ -7,7 +7,7 @@ import FooterOne from "@/layouts/footers/FooterOne";
 import HeaderOne from "@/layouts/headers/HeaderOne";
 
 export default function About() {
-  const [mySkills, setMySkills] = useState();
+  const [mySkills, setMySkills] = useState<any>([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -26,8 +26,8 @@ export default function About() {
           <main>
             <Breadcrumb title="About Me" />
             {/* <ResumeArea /> */}
-            {mySkills &&
-              mySkills.map((skill, idx) => (
+            {mySkills.length > 0 &&
+              mySkills.map((skill: any, idx: number) => (
                 <SkillArea skill={skill} key={idx} idx={idx} />
               ))}
           </main>
