@@ -30,8 +30,8 @@ const portfolio_data: DataType[] = [
     id: 1,
     col: "6",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-nybbqguys-2025-07-29-16_24_59.png?alt=media&token=51c6eb0f-a47d-475d-89ac-b1604d3ccb95",
-    title: "Glasses of Cocktail",
+      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-nybbqguys-2025-07-.png?alt=media&token=c7beceff-4878-42f6-a6af-a88b1ea3c9f9",
+    title: "NY BBQ Guys",
     category: "Branding",
     link: "https://www.nybbqguys.com",
   },
@@ -39,8 +39,8 @@ const portfolio_data: DataType[] = [
     id: 2,
     col: "6",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-multisports-bd-2025-07-29-16_11_54.png?alt=media&token=73fac05e-b021-48a8-906a-52d80ca58472",
-    title: "Sports Equipment & Apparel Store",
+      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-multisports-bd-202.png?alt=media&token=16584ab9-2c67-4c9f-826b-d144a66cf723",
+    title: "MultiSports BD",
     category: "e-commerce",
     link: "https://multisports.com.bd/",
   },
@@ -48,8 +48,8 @@ const portfolio_data: DataType[] = [
     id: 3,
     col: "4",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-descansosupremo-2025-07-29-16_34_43.png?alt=media&token=be11cc12-83eb-4869-aaac-902076e837cd",
-    title: "Orange Rose Flower",
+      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-descansosupremo-20.png?alt=media&token=983e75a0-02a1-497b-86b3-de2d5a032c44",
+    title: "Descanso Supremo",
     category: "e-commerce",
     link: "https://descansosupremo.com/",
   },
@@ -58,7 +58,7 @@ const portfolio_data: DataType[] = [
     col: "4",
     image:
       "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fhttps-%3Awww.shopmahogany.com%3A.png.png?alt=media&token=22601fb6-2dc8-429a-ba00-e06ad34f23b9",
-    title: "Orange Rose Flower",
+    title: "Shop Mahogany",
     category: "e-commerce",
     link: "https://www.shopmahogany.com/",
   },
@@ -66,8 +66,8 @@ const portfolio_data: DataType[] = [
     id: 4,
     col: "4",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-neverevernamelessstuff-myshopify-2025-07-29-16_27_21.png?alt=media&token=d1026f82-af98-4aa1-82bf-b1d2fd165017",
-    title: "Green Plant on a Desk",
+      "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-neverevernamelesss.png?alt=media&token=e0100292-58c7-4381-b059-ecd93255e223",
+    title: "Never Ever Nameless Stuff",
     category: "e-commerce",
     link: "https://neverevernamelessstuff.myshopify.com/",
   },

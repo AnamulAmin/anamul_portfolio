@@ -1,7 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import SkillArea from "./SkillArea";
-import ResumeArea from "./ResumeArea";
 import Breadcrumb from "../common/Breadcrumb";
 import FooterOne from "@/layouts/footers/FooterOne";
 import HeaderOne from "@/layouts/headers/HeaderOne";
