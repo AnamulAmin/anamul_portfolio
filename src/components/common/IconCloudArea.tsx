@@ -36,6 +36,7 @@ const slugs = [
   "warp",
   "axios",
   "digitalocean",
+  "shopify",
 ];
 
 export function IconCloudArea() {
