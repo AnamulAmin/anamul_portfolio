@@ -65,6 +65,21 @@
     ]
   },
   {
+    "category": "CMS",
+    "skills": [
+      {
+        "logo": "/icons/shopify.png",
+        "name": "Shopify",
+        "description": "Shopify is an e-commerce platform that allows businesses to create online stores and sell products online."
+      },
+      {
+        "logo": "/icons/wordpress.png",
+        "name": "Wordpress",
+        "description": "Wordpress is a popular content management system (CMS) used by millions of websites and blogs."
+      }
+    ]
+  },
+  {
     "category": "Database",
     "skills": [
       {
