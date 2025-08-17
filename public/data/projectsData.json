@@ -1,6 +1,69 @@
 [
   {
     "id": 1,
+    "col": "6",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-nybbqguys-2025-07-.png?alt=media&token=c7beceff-4878-42f6-a6af-a88b1ea3c9f9",
+    "title": "NY BBQ Guys",
+    "category": "Branding",
+    "link": "https://www.nybbqguys.com",
+    "techName": "shopify"
+  },
+  {
+    "id": 3,
+    "col": "6",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-descansosupremo-20.png?alt=media&token=983e75a0-02a1-497b-86b3-de2d5a032c44",
+    "title": "Descanso Supremo",
+    "category": "e-commerce",
+    "link": "https://descansosupremo.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 5,
+    "col": "4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fhttps-%3Awww.shopmahogany.com%3A.png.png?alt=media&token=22601fb6-2dc8-429a-ba00-e06ad34f23b9",
+    "title": "Shop Mahogany",
+    "category": "e-commerce",
+    "link": "https://www.shopmahogany.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 4,
+    "col": "4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fscreencapture-neverevernamelesss.png?alt=media&token=e0100292-58c7-4381-b059-ecd93255e223",
+    "title": "Never Ever Nameless Stuff",
+    "category": "e-commerce",
+    "link": "https://neverevernamelessstuff.myshopify.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 4,
+    "col": "4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fmairamalike862.jpeg?alt=media&token=c7198974-197b-46a8-a113-d769f1357cfd",
+    "title": "Baby Store",
+    "category": "e-commerce",
+    "link": "https://t8rypp-1a.myshopify.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 4,
+    "col": "4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Ftake-bags.jpeg?alt=media&token=49126a91-ac3e-4811-9725-588e4e5945ad",
+    "title": "Take It Easy",
+    "category": "e-commerce",
+    "link": "https://take-bags.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 4,
+    "col": "4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fhaviomitra.jpeg?alt=media&token=57fe0b94-d783-445a-8e34-a6fd2815a361",
+    "title": "Diljee's Indian Cooking, Made Easy",
+    "category": "e-commerce",
+    "link": "https://tbbrjp-7p.myshopify.com/",
+    "techName": "shopify"
+  },
+  {
+    "id": 1,
     "image": "https://firebasestorage.googleapis.com/v0/b/fir-authenticationprojec-880fd.appspot.com/o/my_portfolio%2Fmultigym%20(1).png?alt=media&token=30bd841f-2080-4415-9514-2f29d4fb0461",
     "alt": "Multi Gym Premium",
     "link": "https://multigympremium.com/",

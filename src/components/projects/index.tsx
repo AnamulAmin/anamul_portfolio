@@ -78,6 +78,9 @@ export default function Projects() {
   const react = projectData.filter((item: any) => item.techName === "reactJs");
   const next = projectData.filter((item: any) => item.techName === "nextJs");
   const html = projectData.filter((item: any) => item.techName === "html_page");
+  const shopify = projectData.filter(
+    (item: any) => item.techName === "shopify"
+  );
   const electronJs = projectData.filter(
     (item: any) => item.techName === "electronJs"
   );
@@ -116,9 +119,14 @@ export default function Projects() {
               isDark={true}
             />
             <PortfolioArea
+              portfolio_data={shopify}
+              title="Shopify Project"
+              isDark={false}
+            />
+            <PortfolioArea
               portfolio_data={html}
               title="HTML Project"
-              isDark={false}
+              isDark={true}
             />
           </main>
           <FooterOne />
